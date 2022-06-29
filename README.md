@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning :- **React**
 
-- 👨‍💻 All of my projects are available at :- [https://krunal-borhade-portfolio.netlify.app/](https://krunal-borhade-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at :- https://krunalborhade.netlify.app/](https://krunal-borhade-portfolio.netlify.app/)
 
 - 💬 Ask me about :- **HTML, CSS,JS, Node**
 
