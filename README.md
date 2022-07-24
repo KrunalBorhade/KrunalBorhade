@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at :- https://krunalborhade.netlify.app
 
-- 💬 Ask me about :- **HTML, CSS,JS, Node**
+- 💬 Ask me about :- **HTML, CSS, JS, Node, Express, MongoDb, React**
 
 - 📫 How to reach me :- **krunalborhade@yahoo.in**
 
